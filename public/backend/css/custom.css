@@ -1,0 +1,144 @@
+.auth-body-bg .bg-overlay {
+    background: #000000 !important;
+    opacity: .8 !important;
+}
+.sub-menu i {
+    min-width: inherit !important;
+    padding: 0 !important;
+}
+.auth-body-bg .card{
+    background: #373737b3 !important;
+}
+.auth-body-bg .text-muted {
+    color: white !important;
+}
+.auth-body-bg .card-body {
+    background: transparent;
+}
+.auth-body-bg label {
+    color: #ffffffcc;
+}
+#sidebar-menu ul li ul.sub-menu li a {
+    padding-left: 42px !important;
+    padding-bottom: 4px !important;
+}
+input, select {
+    display: block;
+    width: 100%;
+    padding: .47rem .75rem;
+    font-size: .9rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #505d69;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out, -webkit-box-shadow .15s ease-in-out;
+    border-radius: 4px;
+}
+input:focus, select:focus {
+    color: #505d69;
+    background-color: #fff;
+    border-color: #b1bbc4;
+    outline: 0;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+.invalid-feedback{
+    font-size: 83%;
+    color: #f32f53;
+    font-weight: 600 !important;
+    margin-top: 7px !important;
+}
+input[type="checkbox"]{
+    display: inline !important;
+    width: inherit !important;
+}
+button[type="submit"]{
+    display: block !important;
+    margin-top: 3px !important;
+    width: 150px !important;
+    padding: 10px !important;
+}
+.card-title {
+    font-size: 16px;
+    margin: 0;
+    font-weight: 700;
+    border-bottom: 1px solid #00000040;
+    padding-bottom: 10px;
+    margin-bottom: 18px;
+}
+.user-img {
+    width: 38px;
+    height: 38px;
+    border-radius: 50%;
+}
+.empty{
+    font-size: 12px;
+    color: #ccc;
+    font-style: italic;
+}
+#datatable-buttons td {
+    vertical-align: middle;
+}
+.action {
+    text-align: center;
+}
+.action button {
+    background-color: transparent;
+    border: none;
+    padding: 0 2px;
+}
+.action button .ri-edit-2-fill {
+    color: #03ab03;
+    font-size: 18px;
+}
+.action button .ri-delete-bin-2-fill {
+    color: #ff00009e;
+    font-size: 18px;
+}
+.action button .ri-eye-line {
+    font-size: 18px;
+    color: #0F9CF3;
+}
+.swal2-styled:focus {
+    outline: 0;
+    box-shadow: 0 !important;
+}
+.swal2-styled {
+    box-shadow: 0 !important;
+}
+
+.picture {
+    position: relative;
+    z-index: 100;
+}
+.form-control[readonly] {
+    background-color: #f5f5f5c7 !important;
+    opacity: 1;
+}
+.select2-container .select2-selection--single {
+    height: 39px !important;
+    border: 1px solid #ced4da !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #505d69 !important;
+    line-height: 36px !important;
+}
+.select2-container--default .select2-selection--single .select2-selection__arrow {
+    height: 36px !important;
+    position: absolute;
+    top: 1px;
+    right: 4px !important;
+    width: 20px;
+}
+.ri-printer-fill {
+    color: green;
+    font-size: 18px;
+}
+#sidebar-menu ul li a {
+    padding-bottom: 5px;
+}
+.modal-footer {
+    padding-bottom: 0;
+}
